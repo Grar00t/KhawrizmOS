@@ -1,0 +1,39 @@
+
+=======================================================
+[TARGET] HILO_Uniswap_V3_Pool
+[ADDR]   0xa6d6bdb66131b45c61a54d47f096ec036428fc0d
+[ETH]    0.000000 ETH
+[TOKEN TX] 20 تحويل token مؤخراً:
+  → WETH: 0.77 total volume
+  → HILO: 211,744.91 total volume
+
+  أكبر 5 تحويلات:
+  IN     73,312.00 HILO | 0x8c8b4180f10c3f0bdf...
+  IN     70,000.00 HILO | 0xbd081d8830188ecad9...
+  IN     27,656.73 HILO | 0xaa64a2b25d633e5008...
+  OUT    11,720.72 HILO | 0xa1c307c847bb33e6a2...
+  OUT     7,452.19 HILO | 0x4c4903343c550ba3e3...
+
+=======================================================
+[TARGET] HILO_Uniswap_V2_Pool
+[ADDR]   0xf7ae6612c56de3f52095731bdffeb22e64de70dd
+[ETH]    0.000000 ETH
+[TOKEN TX] 20 تحويل token مؤخراً:
+  → HILO: 66,431.48 total volume
+  → WETH: 0.30 total volume
+
+  أكبر 5 تحويلات:
+  OUT    25,801.27 HILO | 0xe6fb449929738a718d...
+  IN     25,801.27 HILO | 0x61b0154c63c3056850...
+  IN      5,502.33 HILO | 0xb6fa4ed44aac85d9e7...
+  IN      2,500.00 HILO | 0x0551304e3758281f05...
+  OUT     2,108.93 HILO | 0x48f5aceb5c7145b449...
+
+=======================================================
+[TARGET] Binance_Deposit
+[ADDR]   0x318b9a4e5d13f41759652604d30c87694b1ee1ae
+[ETH]    0.000000 ETH
+[!] No transactions found
+
+
+[DONE] تحقق من HILO token contract address على CoinMarketCap للتأكد
